@@ -6,7 +6,7 @@
 #include <thread>
 #include <vector>
 
-#include "no_drop_block_queue.hpp"
+#include "queue.hpp"
 
 
 typedef std::function<void()> Function;
